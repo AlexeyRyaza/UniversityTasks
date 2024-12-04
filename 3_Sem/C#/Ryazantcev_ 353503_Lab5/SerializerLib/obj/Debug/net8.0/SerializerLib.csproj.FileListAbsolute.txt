@@ -1,0 +1,15 @@
+G:\02_University\Labs\С#\Ryazantcev_ 353503_Lab5\SerializerLib\bin\Debug\net8.0\SerializerLib.deps.json
+G:\02_University\Labs\С#\Ryazantcev_ 353503_Lab5\SerializerLib\bin\Debug\net8.0\SerializerLib.dll
+G:\02_University\Labs\С#\Ryazantcev_ 353503_Lab5\SerializerLib\bin\Debug\net8.0\SerializerLib.pdb
+G:\02_University\Labs\С#\Ryazantcev_ 353503_Lab5\SerializerLib\bin\Debug\net8.0\Ryazantcev_ 353503_Lab5.Domain.dll
+G:\02_University\Labs\С#\Ryazantcev_ 353503_Lab5\SerializerLib\bin\Debug\net8.0\Ryazantcev_ 353503_Lab5.Domain.pdb
+G:\02_University\Labs\С#\Ryazantcev_ 353503_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.csproj.AssemblyReference.cache
+G:\02_University\Labs\С#\Ryazantcev_ 353503_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.GeneratedMSBuildEditorConfig.editorconfig
+G:\02_University\Labs\С#\Ryazantcev_ 353503_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.AssemblyInfoInputs.cache
+G:\02_University\Labs\С#\Ryazantcev_ 353503_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.AssemblyInfo.cs
+G:\02_University\Labs\С#\Ryazantcev_ 353503_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.csproj.CoreCompileInputs.cache
+G:\02_University\Labs\С#\Ryazantcev_ 353503_Lab5\SerializerLib\obj\Debug\net8.0\Serializ.8EEFA712.Up2Date
+G:\02_University\Labs\С#\Ryazantcev_ 353503_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.dll
+G:\02_University\Labs\С#\Ryazantcev_ 353503_Lab5\SerializerLib\obj\Debug\net8.0\refint\SerializerLib.dll
+G:\02_University\Labs\С#\Ryazantcev_ 353503_Lab5\SerializerLib\obj\Debug\net8.0\SerializerLib.pdb
+G:\02_University\Labs\С#\Ryazantcev_ 353503_Lab5\SerializerLib\obj\Debug\net8.0\ref\SerializerLib.dll

@@ -1,0 +1,7 @@
+G:\02_University\Labs\С#\Ryazantcev_ 353503_Lab6\bin\Debug\Ryazantcev_ 353503_Lab6.exe.config
+G:\02_University\Labs\С#\Ryazantcev_ 353503_Lab6\bin\Debug\Ryazantcev_ 353503_Lab6.exe
+G:\02_University\Labs\С#\Ryazantcev_ 353503_Lab6\bin\Debug\Ryazantcev_ 353503_Lab6.pdb
+G:\02_University\Labs\С#\Ryazantcev_ 353503_Lab6\obj\Debug\Ryazantcev_ 353503_Lab6.csproj.AssemblyReference.cache
+G:\02_University\Labs\С#\Ryazantcev_ 353503_Lab6\obj\Debug\Ryazantcev_ 353503_Lab6.csproj.CoreCompileInputs.cache
+G:\02_University\Labs\С#\Ryazantcev_ 353503_Lab6\obj\Debug\Ryazantcev_ 353503_Lab6.exe
+G:\02_University\Labs\С#\Ryazantcev_ 353503_Lab6\obj\Debug\Ryazantcev_ 353503_Lab6.pdb

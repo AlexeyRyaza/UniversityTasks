@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Car>
+    <Engine>
+      <Type>Aafafadf</Type>
+    </Engine>
+  </Car>
+  <Car>
+    <Engine>
+      <Type>B</Type>
+    </Engine>
+  </Car>
+  <Car>
+    <Engine>
+      <Type>C</Type>
+    </Engine>
+  </Car>
+  <Car>
+    <Engine>
+      <Type>D</Type>
+    </Engine>
+  </Car>
+</ArrayOfCar>

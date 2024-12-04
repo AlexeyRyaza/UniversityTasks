@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\02_University\\Labs\\\u0421#\\Ryazantcev_ 353503_Lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{160FADD3-316B-4357-ABC4-06FDA2400D40}|Ryazantcev_ 353503_Lab6.csproj|G:\\02_University\\Labs\\\u0421#\\Ryazantcev_ 353503_Lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160FADD3-316B-4357-ABC4-06FDA2400D40}|Ryazantcev_ 353503_Lab6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF5C312-774A-4493-9F61-3449B858B302}|FileLib\\FileLib.csproj|g:\\02_university\\labs\\\u0441#\\ryazantcev_ 353503_lab6\\filelib\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF5C312-774A-4493-9F61-3449B858B302}|FileLib\\FileLib.csproj|solutionrelative:filelib\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160FADD3-316B-4357-ABC4-06FDA2400D40}|Ryazantcev_ 353503_Lab6.csproj|G:\\02_University\\Labs\\\u0421#\\Ryazantcev_ 353503_Lab6\\class\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160FADD3-316B-4357-ABC4-06FDA2400D40}|Ryazantcev_ 353503_Lab6.csproj|solutionrelative:class\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160FADD3-316B-4357-ABC4-06FDA2400D40}|Ryazantcev_ 353503_Lab6.csproj|G:\\02_University\\Labs\\\u0421#\\Ryazantcev_ 353503_Lab6\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160FADD3-316B-4357-ABC4-06FDA2400D40}|Ryazantcev_ 353503_Lab6.csproj|solutionrelative:interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF5C312-774A-4493-9F61-3449B858B302}|FileLib\\FileLib.csproj|g:\\02_university\\labs\\\u0441#\\ryazantcev_ 353503_lab6\\filelib\\filelib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BAF5C312-774A-4493-9F61-3449B858B302}|FileLib\\FileLib.csproj|solutionrelative:filelib\\filelib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "G:\\02_University\\Labs\\\u0421#\\Ryazantcev_ 353503_Lab6\\FileLib\\FileService.cs",
+              "RelativeDocumentMoniker": "FileLib\\FileService.cs",
+              "ToolTip": "G:\\02_University\\Labs\\\u0421#\\Ryazantcev_ 353503_Lab6\\FileLib\\FileService.cs",
+              "RelativeToolTip": "FileLib\\FileService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:03:22.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileLib.csproj",
+              "DocumentMoniker": "G:\\02_University\\Labs\\\u0421#\\Ryazantcev_ 353503_Lab6\\FileLib\\FileLib.csproj",
+              "RelativeDocumentMoniker": "FileLib\\FileLib.csproj",
+              "ToolTip": "G:\\02_University\\Labs\\\u0421#\\Ryazantcev_ 353503_Lab6\\FileLib\\FileLib.csproj",
+              "RelativeToolTip": "FileLib\\FileLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T14:02:49.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "G:\\02_University\\Labs\\\u0421#\\Ryazantcev_ 353503_Lab6\\Interfaces\\IFileService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IFileService.cs",
+              "ToolTip": "G:\\02_University\\Labs\\\u0421#\\Ryazantcev_ 353503_Lab6\\Interfaces\\IFileService.cs",
+              "RelativeToolTip": "Interfaces\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:57:13.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "G:\\02_University\\Labs\\\u0421#\\Ryazantcev_ 353503_Lab6\\Class\\Employee.cs",
+              "RelativeDocumentMoniker": "Class\\Employee.cs",
+              "ToolTip": "G:\\02_University\\Labs\\\u0421#\\Ryazantcev_ 353503_Lab6\\Class\\Employee.cs",
+              "RelativeToolTip": "Class\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:50:35.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\02_University\\Labs\\\u0421#\\Ryazantcev_ 353503_Lab6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\02_University\\Labs\\\u0421#\\Ryazantcev_ 353503_Lab6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:43:47.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

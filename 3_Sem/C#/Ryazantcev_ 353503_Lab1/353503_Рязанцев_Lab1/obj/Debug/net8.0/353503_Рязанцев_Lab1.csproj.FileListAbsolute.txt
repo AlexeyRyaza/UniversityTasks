@@ -1,0 +1,14 @@
+G:\Labs\С#\353503_Рязанцев_Lab1\353503_Рязанцев_Lab1\bin\Debug\net8.0\353503_Рязанцев_Lab1.exe
+G:\Labs\С#\353503_Рязанцев_Lab1\353503_Рязанцев_Lab1\bin\Debug\net8.0\353503_Рязанцев_Lab1.deps.json
+G:\Labs\С#\353503_Рязанцев_Lab1\353503_Рязанцев_Lab1\bin\Debug\net8.0\353503_Рязанцев_Lab1.runtimeconfig.json
+G:\Labs\С#\353503_Рязанцев_Lab1\353503_Рязанцев_Lab1\bin\Debug\net8.0\353503_Рязанцев_Lab1.dll
+G:\Labs\С#\353503_Рязанцев_Lab1\353503_Рязанцев_Lab1\bin\Debug\net8.0\353503_Рязанцев_Lab1.pdb
+G:\Labs\С#\353503_Рязанцев_Lab1\353503_Рязанцев_Lab1\obj\Debug\net8.0\353503_Рязанцев_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Labs\С#\353503_Рязанцев_Lab1\353503_Рязанцев_Lab1\obj\Debug\net8.0\353503_Рязанцев_Lab1.AssemblyInfoInputs.cache
+G:\Labs\С#\353503_Рязанцев_Lab1\353503_Рязанцев_Lab1\obj\Debug\net8.0\353503_Рязанцев_Lab1.AssemblyInfo.cs
+G:\Labs\С#\353503_Рязанцев_Lab1\353503_Рязанцев_Lab1\obj\Debug\net8.0\353503_Рязанцев_Lab1.csproj.CoreCompileInputs.cache
+G:\Labs\С#\353503_Рязанцев_Lab1\353503_Рязанцев_Lab1\obj\Debug\net8.0\353503_Рязанцев_Lab1.dll
+G:\Labs\С#\353503_Рязанцев_Lab1\353503_Рязанцев_Lab1\obj\Debug\net8.0\refint\353503_Рязанцев_Lab1.dll
+G:\Labs\С#\353503_Рязанцев_Lab1\353503_Рязанцев_Lab1\obj\Debug\net8.0\353503_Рязанцев_Lab1.pdb
+G:\Labs\С#\353503_Рязанцев_Lab1\353503_Рязанцев_Lab1\obj\Debug\net8.0\353503_Рязанцев_Lab1.genruntimeconfig.cache
+G:\Labs\С#\353503_Рязанцев_Lab1\353503_Рязанцев_Lab1\obj\Debug\net8.0\ref\353503_Рязанцев_Lab1.dll
